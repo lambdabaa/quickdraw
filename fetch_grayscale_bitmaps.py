@@ -27,8 +27,8 @@ def format_object_name(object_name):
     return '/'.join(map(urllib.parse.quote, object_name.split('/')))
 
 def fetch_and_convert(object_name, folder='.'):
-    print('Fetching drawings named %s...' % object_name)
     filename = object_name.split('/')[-1]
+    basename = filename.split('.')[0]
     path = '%s/%s' % (folder, filename)
     if not os.path.exists(path):
         print('Fetching %s...' % object_name)
@@ -39,12 +39,19 @@ def fetch_and_convert(object_name, folder='.'):
         payload = res.read()
         with open(path, 'wb') as f:
             f.write(payload)
+    print('Converting drawings of %s...' % basename)
     nparray = np.load(path)
-    print('Found %d samples...' % len(nparray))
+    length = len(nparray)
+    print('Found %d samples...' % length)
+    parent = '%s/%s' % (folder, basename)
+    if not os.path.exists(parent):
+        os.makedirs(parent)
     for idx, item in enumerate(nparray):
+        print('[%d / %d]' % (idx + 1, length), end='\r')
         reshaped = np.reshape(item, (28, 28))
         img = Image.fromarray(reshaped)
-        img.save(path.replace('.npy', '-%d.jpg' % idx))
+        img.save('%s/%s-%d.jpg' % (folder, basename, idx))
+    print()
 
 def main():
     folder = './images'
