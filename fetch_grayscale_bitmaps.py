@@ -50,7 +50,7 @@ def fetch_and_convert(object_name, folder='.'):
         print('[%d / %d]' % (idx + 1, length), end='\r')
         reshaped = np.reshape(item, (28, 28))
         img = Image.fromarray(reshaped)
-        img.save('%s/%s-%d.jpg' % (folder, basename, idx))
+        img.save('%s/%s/%d.jpg' % (folder, basename, idx))
     print()
 
 def main():
