@@ -19,7 +19,7 @@ def ensure_download_directory_exists(path):
 def list_numpy_objects():
     print('Listing bitmap collections...')
     res = fetch_gapi('/storage/v1/b/quickdraw_dataset/o?prefix=full/numpy_bitmap')
-    payload = json.loads(res.read())
+    payload = json.loads(res.read().decode('utf-8'))
     print('Found %d sets!' % len(payload['items']))
     return list(map(lambda item: item['name'], payload['items']))
 
