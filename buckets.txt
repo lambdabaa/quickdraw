@@ -1,0 +1,345 @@
+gs://coms-w4995-vcm/The Eiffel Tower/
+gs://coms-w4995-vcm/The Great Wall of China/
+gs://coms-w4995-vcm/The Mona Lisa/
+gs://coms-w4995-vcm/aircraft carrier/
+gs://coms-w4995-vcm/airplane/
+gs://coms-w4995-vcm/alarm clock/
+gs://coms-w4995-vcm/ambulance/
+gs://coms-w4995-vcm/angel/
+gs://coms-w4995-vcm/animal migration/
+gs://coms-w4995-vcm/ant/
+gs://coms-w4995-vcm/anvil/
+gs://coms-w4995-vcm/apple/
+gs://coms-w4995-vcm/arm/
+gs://coms-w4995-vcm/asparagus/
+gs://coms-w4995-vcm/axe/
+gs://coms-w4995-vcm/backpack/
+gs://coms-w4995-vcm/banana/
+gs://coms-w4995-vcm/bandage/
+gs://coms-w4995-vcm/barn/
+gs://coms-w4995-vcm/baseball bat/
+gs://coms-w4995-vcm/baseball/
+gs://coms-w4995-vcm/basket/
+gs://coms-w4995-vcm/basketball/
+gs://coms-w4995-vcm/bat/
+gs://coms-w4995-vcm/bathtub/
+gs://coms-w4995-vcm/beach/
+gs://coms-w4995-vcm/bear/
+gs://coms-w4995-vcm/beard/
+gs://coms-w4995-vcm/bed/
+gs://coms-w4995-vcm/bee/
+gs://coms-w4995-vcm/belt/
+gs://coms-w4995-vcm/bench/
+gs://coms-w4995-vcm/bicycle/
+gs://coms-w4995-vcm/binoculars/
+gs://coms-w4995-vcm/bird/
+gs://coms-w4995-vcm/birthday cake/
+gs://coms-w4995-vcm/blackberry/
+gs://coms-w4995-vcm/blueberry/
+gs://coms-w4995-vcm/book/
+gs://coms-w4995-vcm/boomerang/
+gs://coms-w4995-vcm/bottlecap/
+gs://coms-w4995-vcm/bowtie/
+gs://coms-w4995-vcm/bracelet/
+gs://coms-w4995-vcm/brain/
+gs://coms-w4995-vcm/bread/
+gs://coms-w4995-vcm/bridge/
+gs://coms-w4995-vcm/broccoli/
+gs://coms-w4995-vcm/broom/
+gs://coms-w4995-vcm/bucket/
+gs://coms-w4995-vcm/bulldozer/
+gs://coms-w4995-vcm/bus/
+gs://coms-w4995-vcm/bush/
+gs://coms-w4995-vcm/butterfly/
+gs://coms-w4995-vcm/cactus/
+gs://coms-w4995-vcm/cake/
+gs://coms-w4995-vcm/calculator/
+gs://coms-w4995-vcm/calendar/
+gs://coms-w4995-vcm/camel/
+gs://coms-w4995-vcm/camera/
+gs://coms-w4995-vcm/camouflage/
+gs://coms-w4995-vcm/campfire/
+gs://coms-w4995-vcm/candle/
+gs://coms-w4995-vcm/cannon/
+gs://coms-w4995-vcm/canoe/
+gs://coms-w4995-vcm/car/
+gs://coms-w4995-vcm/carrot/
+gs://coms-w4995-vcm/castle/
+gs://coms-w4995-vcm/cat/
+gs://coms-w4995-vcm/ceiling fan/
+gs://coms-w4995-vcm/cell phone/
+gs://coms-w4995-vcm/cello/
+gs://coms-w4995-vcm/chair/
+gs://coms-w4995-vcm/chandelier/
+gs://coms-w4995-vcm/church/
+gs://coms-w4995-vcm/circle/
+gs://coms-w4995-vcm/clarinet/
+gs://coms-w4995-vcm/clock/
+gs://coms-w4995-vcm/cloud/
+gs://coms-w4995-vcm/coffee cup/
+gs://coms-w4995-vcm/compass/
+gs://coms-w4995-vcm/computer/
+gs://coms-w4995-vcm/cookie/
+gs://coms-w4995-vcm/cooler/
+gs://coms-w4995-vcm/couch/
+gs://coms-w4995-vcm/cow/
+gs://coms-w4995-vcm/crab/
+gs://coms-w4995-vcm/crayon/
+gs://coms-w4995-vcm/crocodile/
+gs://coms-w4995-vcm/crown/
+gs://coms-w4995-vcm/cruise ship/
+gs://coms-w4995-vcm/cup/
+gs://coms-w4995-vcm/diamond/
+gs://coms-w4995-vcm/dishwasher/
+gs://coms-w4995-vcm/diving board/
+gs://coms-w4995-vcm/dog/
+gs://coms-w4995-vcm/dolphin/
+gs://coms-w4995-vcm/donut/
+gs://coms-w4995-vcm/door/
+gs://coms-w4995-vcm/dragon/
+gs://coms-w4995-vcm/dresser/
+gs://coms-w4995-vcm/drill/
+gs://coms-w4995-vcm/drums/
+gs://coms-w4995-vcm/duck/
+gs://coms-w4995-vcm/dumbbell/
+gs://coms-w4995-vcm/ear/
+gs://coms-w4995-vcm/elbow/
+gs://coms-w4995-vcm/elephant/
+gs://coms-w4995-vcm/envelope/
+gs://coms-w4995-vcm/eraser/
+gs://coms-w4995-vcm/eye/
+gs://coms-w4995-vcm/eyeglasses/
+gs://coms-w4995-vcm/face/
+gs://coms-w4995-vcm/fan/
+gs://coms-w4995-vcm/feather/
+gs://coms-w4995-vcm/fence/
+gs://coms-w4995-vcm/finger/
+gs://coms-w4995-vcm/fire hydrant/
+gs://coms-w4995-vcm/fireplace/
+gs://coms-w4995-vcm/firetruck/
+gs://coms-w4995-vcm/fish/
+gs://coms-w4995-vcm/flamingo/
+gs://coms-w4995-vcm/flashlight/
+gs://coms-w4995-vcm/flip flops/
+gs://coms-w4995-vcm/floor lamp/
+gs://coms-w4995-vcm/flower/
+gs://coms-w4995-vcm/flying saucer/
+gs://coms-w4995-vcm/foot/
+gs://coms-w4995-vcm/fork/
+gs://coms-w4995-vcm/frog/
+gs://coms-w4995-vcm/frying pan/
+gs://coms-w4995-vcm/garden hose/
+gs://coms-w4995-vcm/garden/
+gs://coms-w4995-vcm/giraffe/
+gs://coms-w4995-vcm/goatee/
+gs://coms-w4995-vcm/golf club/
+gs://coms-w4995-vcm/grapes/
+gs://coms-w4995-vcm/grass/
+gs://coms-w4995-vcm/guitar/
+gs://coms-w4995-vcm/hamburger/
+gs://coms-w4995-vcm/hammer/
+gs://coms-w4995-vcm/hand/
+gs://coms-w4995-vcm/harp/
+gs://coms-w4995-vcm/hat/
+gs://coms-w4995-vcm/headphones/
+gs://coms-w4995-vcm/hedgehog/
+gs://coms-w4995-vcm/helicopter/
+gs://coms-w4995-vcm/helmet/
+gs://coms-w4995-vcm/hexagon/
+gs://coms-w4995-vcm/hockey puck/
+gs://coms-w4995-vcm/hockey stick/
+gs://coms-w4995-vcm/horse/
+gs://coms-w4995-vcm/hospital/
+gs://coms-w4995-vcm/hot air balloon/
+gs://coms-w4995-vcm/hot dog/
+gs://coms-w4995-vcm/hot tub/
+gs://coms-w4995-vcm/hourglass/
+gs://coms-w4995-vcm/house plant/
+gs://coms-w4995-vcm/house/
+gs://coms-w4995-vcm/hurricane/
+gs://coms-w4995-vcm/ice cream/
+gs://coms-w4995-vcm/jacket/
+gs://coms-w4995-vcm/jail/
+gs://coms-w4995-vcm/kangaroo/
+gs://coms-w4995-vcm/key/
+gs://coms-w4995-vcm/keyboard/
+gs://coms-w4995-vcm/knee/
+gs://coms-w4995-vcm/knife/
+gs://coms-w4995-vcm/ladder/
+gs://coms-w4995-vcm/lantern/
+gs://coms-w4995-vcm/laptop/
+gs://coms-w4995-vcm/leaf/
+gs://coms-w4995-vcm/leg/
+gs://coms-w4995-vcm/light bulb/
+gs://coms-w4995-vcm/lighter/
+gs://coms-w4995-vcm/lighthouse/
+gs://coms-w4995-vcm/lightning/
+gs://coms-w4995-vcm/line/
+gs://coms-w4995-vcm/lion/
+gs://coms-w4995-vcm/lipstick/
+gs://coms-w4995-vcm/lobster/
+gs://coms-w4995-vcm/lollipop/
+gs://coms-w4995-vcm/mailbox/
+gs://coms-w4995-vcm/map/
+gs://coms-w4995-vcm/marker/
+gs://coms-w4995-vcm/matches/
+gs://coms-w4995-vcm/megaphone/
+gs://coms-w4995-vcm/mermaid/
+gs://coms-w4995-vcm/microphone/
+gs://coms-w4995-vcm/microwave/
+gs://coms-w4995-vcm/monkey/
+gs://coms-w4995-vcm/moon/
+gs://coms-w4995-vcm/mosquito/
+gs://coms-w4995-vcm/motorbike/
+gs://coms-w4995-vcm/mountain/
+gs://coms-w4995-vcm/mouse/
+gs://coms-w4995-vcm/moustache/
+gs://coms-w4995-vcm/mouth/
+gs://coms-w4995-vcm/mug/
+gs://coms-w4995-vcm/mushroom/
+gs://coms-w4995-vcm/nail/
+gs://coms-w4995-vcm/necklace/
+gs://coms-w4995-vcm/nose/
+gs://coms-w4995-vcm/ocean/
+gs://coms-w4995-vcm/octagon/
+gs://coms-w4995-vcm/octopus/
+gs://coms-w4995-vcm/onion/
+gs://coms-w4995-vcm/oven/
+gs://coms-w4995-vcm/owl/
+gs://coms-w4995-vcm/paint can/
+gs://coms-w4995-vcm/paintbrush/
+gs://coms-w4995-vcm/palm tree/
+gs://coms-w4995-vcm/panda/
+gs://coms-w4995-vcm/pants/
+gs://coms-w4995-vcm/paper clip/
+gs://coms-w4995-vcm/parachute/
+gs://coms-w4995-vcm/parrot/
+gs://coms-w4995-vcm/passport/
+gs://coms-w4995-vcm/peanut/
+gs://coms-w4995-vcm/pear/
+gs://coms-w4995-vcm/peas/
+gs://coms-w4995-vcm/pencil/
+gs://coms-w4995-vcm/penguin/
+gs://coms-w4995-vcm/piano/
+gs://coms-w4995-vcm/pickup truck/
+gs://coms-w4995-vcm/picture frame/
+gs://coms-w4995-vcm/pig/
+gs://coms-w4995-vcm/pillow/
+gs://coms-w4995-vcm/pineapple/
+gs://coms-w4995-vcm/pizza/
+gs://coms-w4995-vcm/pliers/
+gs://coms-w4995-vcm/police car/
+gs://coms-w4995-vcm/pond/
+gs://coms-w4995-vcm/pool/
+gs://coms-w4995-vcm/popsicle/
+gs://coms-w4995-vcm/postcard/
+gs://coms-w4995-vcm/potato/
+gs://coms-w4995-vcm/power outlet/
+gs://coms-w4995-vcm/purse/
+gs://coms-w4995-vcm/rabbit/
+gs://coms-w4995-vcm/raccoon/
+gs://coms-w4995-vcm/radio/
+gs://coms-w4995-vcm/rain/
+gs://coms-w4995-vcm/rainbow/
+gs://coms-w4995-vcm/rake/
+gs://coms-w4995-vcm/remote control/
+gs://coms-w4995-vcm/rhinoceros/
+gs://coms-w4995-vcm/rifle/
+gs://coms-w4995-vcm/river/
+gs://coms-w4995-vcm/roller coaster/
+gs://coms-w4995-vcm/rollerskates/
+gs://coms-w4995-vcm/sailboat/
+gs://coms-w4995-vcm/sandwich/
+gs://coms-w4995-vcm/saw/
+gs://coms-w4995-vcm/saxophone/
+gs://coms-w4995-vcm/school bus/
+gs://coms-w4995-vcm/scissors/
+gs://coms-w4995-vcm/scorpion/
+gs://coms-w4995-vcm/screwdriver/
+gs://coms-w4995-vcm/sea turtle/
+gs://coms-w4995-vcm/see saw/
+gs://coms-w4995-vcm/shark/
+gs://coms-w4995-vcm/sheep/
+gs://coms-w4995-vcm/shoe/
+gs://coms-w4995-vcm/shorts/
+gs://coms-w4995-vcm/shovel/
+gs://coms-w4995-vcm/sink/
+gs://coms-w4995-vcm/skateboard/
+gs://coms-w4995-vcm/skull/
+gs://coms-w4995-vcm/skyscraper/
+gs://coms-w4995-vcm/sleeping bag/
+gs://coms-w4995-vcm/smiley face/
+gs://coms-w4995-vcm/snail/
+gs://coms-w4995-vcm/snake/
+gs://coms-w4995-vcm/snorkel/
+gs://coms-w4995-vcm/snowflake/
+gs://coms-w4995-vcm/snowman/
+gs://coms-w4995-vcm/soccer ball/
+gs://coms-w4995-vcm/sock/
+gs://coms-w4995-vcm/speedboat/
+gs://coms-w4995-vcm/spider/
+gs://coms-w4995-vcm/spoon/
+gs://coms-w4995-vcm/spreadsheet/
+gs://coms-w4995-vcm/square/
+gs://coms-w4995-vcm/squiggle/
+gs://coms-w4995-vcm/squirrel/
+gs://coms-w4995-vcm/stairs/
+gs://coms-w4995-vcm/star/
+gs://coms-w4995-vcm/steak/
+gs://coms-w4995-vcm/stereo/
+gs://coms-w4995-vcm/stethoscope/
+gs://coms-w4995-vcm/stitches/
+gs://coms-w4995-vcm/stop sign/
+gs://coms-w4995-vcm/stove/
+gs://coms-w4995-vcm/strawberry/
+gs://coms-w4995-vcm/streetlight/
+gs://coms-w4995-vcm/string bean/
+gs://coms-w4995-vcm/submarine/
+gs://coms-w4995-vcm/suitcase/
+gs://coms-w4995-vcm/sun/
+gs://coms-w4995-vcm/swan/
+gs://coms-w4995-vcm/sweater/
+gs://coms-w4995-vcm/swing set/
+gs://coms-w4995-vcm/sword/
+gs://coms-w4995-vcm/syringe/
+gs://coms-w4995-vcm/t-shirt/
+gs://coms-w4995-vcm/table/
+gs://coms-w4995-vcm/teapot/
+gs://coms-w4995-vcm/teddy-bear/
+gs://coms-w4995-vcm/telephone/
+gs://coms-w4995-vcm/television/
+gs://coms-w4995-vcm/tennis racquet/
+gs://coms-w4995-vcm/tent/
+gs://coms-w4995-vcm/tiger/
+gs://coms-w4995-vcm/toaster/
+gs://coms-w4995-vcm/toe/
+gs://coms-w4995-vcm/toilet/
+gs://coms-w4995-vcm/tooth/
+gs://coms-w4995-vcm/toothbrush/
+gs://coms-w4995-vcm/toothpaste/
+gs://coms-w4995-vcm/tornado/
+gs://coms-w4995-vcm/tractor/
+gs://coms-w4995-vcm/traffic light/
+gs://coms-w4995-vcm/train/
+gs://coms-w4995-vcm/tree/
+gs://coms-w4995-vcm/triangle/
+gs://coms-w4995-vcm/trombone/
+gs://coms-w4995-vcm/truck/
+gs://coms-w4995-vcm/trumpet/
+gs://coms-w4995-vcm/umbrella/
+gs://coms-w4995-vcm/underwear/
+gs://coms-w4995-vcm/van/
+gs://coms-w4995-vcm/vase/
+gs://coms-w4995-vcm/violin/
+gs://coms-w4995-vcm/washing machine/
+gs://coms-w4995-vcm/watermelon/
+gs://coms-w4995-vcm/waterslide/
+gs://coms-w4995-vcm/whale/
+gs://coms-w4995-vcm/wheel/
+gs://coms-w4995-vcm/windmill/
+gs://coms-w4995-vcm/wine bottle/
+gs://coms-w4995-vcm/wine glass/
+gs://coms-w4995-vcm/wristwatch/
+gs://coms-w4995-vcm/yoga/
+gs://coms-w4995-vcm/zebra/
+gs://coms-w4995-vcm/zigzag/
