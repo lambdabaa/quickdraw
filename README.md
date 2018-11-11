@@ -5,3 +5,9 @@
 pip3 install -r requirements.txt
 ./fetch_grayscale_images.py
 ```
+
+### Preparing CSVs to upload to AutoML
+
+```
+./generate_automl_vision_csv.py <class> <count> > output.csv
+```
