@@ -21,16 +21,16 @@ def main():
 	for idx in range(0, count):
 		# Add all of the positive examples.
 		result.append(format_csv_line(BUCKET, target, idx, '1'))
-		with open('./buckets.txt', 'r') as buckets_file:
-			buckets = list(map(
-				lambda x: x.rstrip('\n'),
-				buckets_file.readlines()))
-			others = list(map(
-				lambda x: x.split('/')[-2],
-				filter(lambda x: target not in x,  buckets)))
-			for other in others:
-				for idx in range(0, count / len(others)):
-					result.append(format_csv_line(BUCKET, other, idx, '0'))
+	with open('./buckets.txt', 'r') as buckets_file:
+		buckets = list(map(
+			lambda x: x.rstrip('\n'),
+			buckets_file.readlines()))
+		others = list(map(
+			lambda x: x.split('/')[-2],
+			filter(lambda x: target not in x,  buckets)))
+		for other in others:
+			for idx in range(0, count / len(others)):
+				result.append(format_csv_line(BUCKET, other, idx, '0'))
 	random.shuffle(result)
 	for x in result:
 		print(x)
