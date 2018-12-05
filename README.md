@@ -32,4 +32,4 @@ node ./scripts/predict2.js <automl model id> <output filename>
 
 ### Data augmentation
 
-The included IPython notebooks contain routines for training GANs and applying image-based transformations to rasterized, 28x28 grayscale images from the quickdraw dataset.
+The included IPython notebooks in `ipynb/` contain routines for training GANs and applying image-based transformations to rasterized, 28x28 grayscale images from the quickdraw dataset.
