@@ -11,3 +11,15 @@ pip3 install -r requirements.txt
 ```
 ./generate_automl_vision_csv.py <class> <count> > output.csv
 ```
+
+### Making predictions (requires setting GOOGLE_APPLICATION_CREDENTIALS to the private GCP project)
+
+```
+npm install
+
+// Run all images in the ./images folder through the 340 binary classifiers
+node predict.js
+
+// Run all images in the ./images folder through a specific classifier
+node predict2.js <automl model id> <output filename>
+```
