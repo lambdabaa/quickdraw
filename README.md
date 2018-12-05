@@ -12,6 +12,12 @@ pip3 install -r requirements.txt
 ./generate_automl_vision_csv.py <class> <count> > output.csv
 ```
 
+### Preparing test images
+
+The ndjson test images from Kaggle's competition have been transformed into 28x28
+grayscale images matching the training ones available from [Google Cloud Console](https://console.cloud.google.com/storage/quickdraw_dataset/).
+They are available in the `images.tar.gz` archive.
+
 ### Making predictions (requires setting GOOGLE_APPLICATION_CREDENTIALS to the private GCP project)
 
 ```
