@@ -1,3 +1,9 @@
+### Results
+
+The `test/` directory includes 500 test images we ran our classification model over to achieve
+a mean average precision of 0.9276 (in the ballpark of the top 200 Kaggle classifiers). Our
+predictions are available in `test/final.csv`.
+
 ### Downloading 28x28 grayscale images from GCP
 
 ```
